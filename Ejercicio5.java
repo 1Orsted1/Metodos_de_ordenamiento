@@ -15,7 +15,7 @@ for (int i = arreglo.length/2;i>0 ;i=(i == 2 ? 1 :(int)Math.round(i/2.2) ) ) {
 	}
 }
 System.out.println(Arrays.toString(arreglo));
-
+System.out.println("Este es el arreglo");
 
 
 
